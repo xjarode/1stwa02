@@ -5,6 +5,7 @@
   <groupId>com.i28m</groupId>
   <artifactId>1stwa03</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
 
 	<dependencies>
 	
